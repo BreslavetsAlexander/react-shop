@@ -1,0 +1,60 @@
+{
+  "goods": [
+    {
+      "id": 1,
+      "url": "https://ae01.alicdn.com/kf/HTB1GSrRanHuK1RkSndVq6xVwpXaf/Smartphone-Xiaomi-Redmi-6A-16gb-xiaomi-mi.jpg_220x220.jpg",
+      "title": "Смартфон Xiaomi Redmi 6A 16 ГБ",
+      "description": "Смартфон Xiaomi Redmi 6A 16 ГБ",
+      "price": "5768"
+    },
+    {
+      "id": 2,
+      "url": "https://ae01.alicdn.com/kf/HTB12i8BaDHuK1RkSndVq6xVwpXab/Smartphone-Xiaomi-Redmi-6A-32gb-xiaomi-mi.jpg_220x220.jpg",
+      "title": "Смартфон Xiaomi Redmi 6A 32 ГБ",
+      "description": "Смартфон Xiaomi Redmi 6A 32 ГБ",
+      "price": "7468"
+    },
+    {
+      "id": 3,
+      "url": "https://ae01.alicdn.com/kf/HTB1WLLha6zuK1RjSspeq6ziHVXaq/Smartphone-HUAWEI-Y6-Prime-2018.jpg_220x220.jpg",
+      "title": "Смартфон HUAWEI Y6 Prime 2018",
+      "description": "Смартфон HUAWEI Y6 Prime 2018",
+      "price": "8790"
+    },
+    {
+      "id": 4,
+      "url": "https://ae01.alicdn.com/kf/HTB1eeTVX0fvK1RjSspfq6zzXFXa7/Smartphone-Honor-7c-Pro-mobile-phone-.jpg_220x220.jpg",
+      "title": "Cмартфон Honor 7С Pro 32 ГБ",
+      "description": "Cмартфон Honor 7С Pro 32 ГБ",
+      "price": "10772"
+    },
+    {
+      "id": 5,
+      "url": "https://ae01.alicdn.com/kf/UTB8rI_MjTzIXKJkSafVq6yWgXXaf/Smartphone-Xiaomi-Redmi-5-telephone-2GB-16GB-phone.jpg_220x220.jpg",
+      "title": "Смартфон Xiaomi Redmi 5 16 ГБ",
+      "description": "Смартфон Xiaomi Redmi 5 16 ГБ",
+      "price": "8443"
+    },
+    {
+      "id": 6,
+      "url": "https://ae01.alicdn.com/kf/UTB8f5F5on_IXKJkSalUq6yBzVXaP/Smartphone-Honor-8X-64-GB.jpg_220x220.jpg",
+      "title": "Cмартфон Honor 8X 64 ГБ",
+      "description": "Cмартфон Honor 8X 64 ГБ",
+      "price": "17990"
+    },
+    {
+      "id": 7,
+      "url": "https://ae01.alicdn.com/kf/HTB1jYTcaZvrK1Rjy0Feq6ATmVXaY/Smartphone-HUAWEI-P20-lite.jpg_220x220.jpg",
+      "title": "Смартфон HUAWEI P20 lite",
+      "description": "Смартфон HUAWEI P20 lite",
+      "price": "16990"
+    },
+    {
+      "id": 8,
+      "url": "https://ae01.alicdn.com/kf/HTB1ODuKa0zvK1RkSnfoq6zMwVXaW/Smartphone-Xiaomi-Mi8-Lite-4-64GB.jpg_220x220.jpg",
+      "title": "Смартфон Xiaomi Mi8 Lite 4 64 ГБ",
+      "description": "Смартфон Xiaomi Mi8 Lite 4 64 ГБ",
+      "price": "17990"
+    }
+  ]
+}

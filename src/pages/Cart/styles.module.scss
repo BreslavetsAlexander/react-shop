@@ -1,0 +1,14 @@
+.cart {
+    background: #ffffff;
+    align-self: start;
+    padding: 10px;
+
+    h2 {
+        font-size: 20px;
+    }
+
+    div {
+        display: flex;
+        justify-content: space-between;
+    }
+}

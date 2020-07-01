@@ -1,0 +1,20 @@
+.wrapper {
+    display: flex;
+
+    .image {
+        height: 400px;
+        margin-right: 20px;
+
+        img {
+            height: 100%;
+        }
+    }
+
+    .formBlock {
+        flex-grow: 1;
+
+        .dangerButton {
+            margin-right: 10px;
+        }
+    }
+}

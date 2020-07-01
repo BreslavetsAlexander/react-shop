@@ -1,0 +1,48 @@
+{
+  "name": "react-shop",
+  "version": "1.0.0",
+  "description": "react-shop",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npm-run-all --parallel start goods users",
+    "start": "webpack-dev-server --mode development --open --hot",
+    "build": "webpack --mode production",
+    "prettier": "nodemon --exec prettier --write ./src/**/*.js",
+    "goods": "json-server --watch ./db/goods.json -p 3001",
+    "users": "json-server --watch ./db/users.json -p 3002"
+  },
+  "keywords": [],
+  "author": "Breslavets Alexander",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.10.4",
+    "@babel/plugin-proposal-class-properties": "^7.10.4",
+    "@babel/plugin-proposal-private-methods": "^7.10.4",
+    "@babel/plugin-transform-react-jsx": "^7.10.4",
+    "@babel/plugin-transform-runtime": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
+    "@babel/preset-react": "^7.10.4",
+    "@babel/runtime": "^7.10.4",
+    "babel-loader": "^8.0.4",
+    "clean-webpack-plugin": "^3.0.0",
+    "css-loader": "^1.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "json-server": "^0.16.1",
+    "nodemon": "^2.0.2",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^1.19.0",
+    "sass": "^1.26.8",
+    "sass-loader": "^8.0.2",
+    "style-loader": "^0.23.0",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.1.1",
+    "webpack-dev-server": "^3.10.3"
+  },
+  "dependencies": {
+    "antd": "^4.4.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-router-dom": "^5.1.2",
+    "reset-css": "^5.0.1"
+  }
+}
